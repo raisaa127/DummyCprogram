@@ -1,5 +1,3 @@
-
-
 Setting up a Job in Jenkins
 Jenkins Landing Page
 
